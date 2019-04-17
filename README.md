@@ -1,2 +1,5 @@
 # Sala-de-Leitura
-Organizador de livros
+Sistema de catalogo de livros para escolas públicas.
+
+# Tecnologias
+* Angular
